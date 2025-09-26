@@ -3,10 +3,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Chugani&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI/ML%20Engineer%20|%20Software%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50&descSize=16" width="100%"/>
 </div>
 
-<!-- Animated typing effect with enhanced styling -->
+<!-- Enhanced version -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=650&height=60&lines=🤖+AI%2FML+Engineer+in+Progress;📊+Data+Science+%26+Analytics+Enthusiast;🚀+Building+Tomorrow's+Technology+Today;🔬+Research+%26+Innovation+Focused" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&color=F85D7F&center=true&vCenter=true&width=435&height=50&lines=AI%2FML+Engineer+in+Progress;Data+Science+Enthusiast;Building+Tomorrow%27s+Technology;Research+%26+Innovation+Focused" alt="Typing Animation" />
 </div>
+
+<!-- Backup static version (uncomment if typing animation fails) -->
+<!-- 
+<div align="center">
+  <h2>🤖 AI/ML Engineer in Progress | 📊 Data Science & Analytics Enthusiast</h2>
+  <h3>🚀 Building Tomorrow's Technology Today | 🔬 Research & Innovation Focused</h3>
+</div>
+-->
 
 <!-- Animated profile views counter -->
 <div align="center">
@@ -125,15 +133,17 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn&fontColor=fff" width="100%"/>
-</div>
-
-<div align="center">
   
 **⚡ "Code. Learn. Innovate. Repeat." ⚡**
 
 ***Building the future, one algorithm at a time*** 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting+my+profile!+😊;Let's+build+something+amazing+together!+🚀;Always+ready+for+new+challenges!+💪" alt="Footer Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&color=F85D7F&center=true&vCenter=true&width=435&height=45&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing!;Always+ready+for+new+challenges!" alt="Footer Typing Animation" />
 
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn&fontColor=fff" width="100%"/>
+</div>
+
+
